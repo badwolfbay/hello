@@ -1,4 +1,4 @@
-FROM cantara/debian-sid-zulu-jdk9
+FROM arthurcarlsson/jdk9
 MAINTAINER  <badwolf09950@gmail.com>
 
 RUN mkdir /hello
